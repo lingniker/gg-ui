@@ -1,2 +1,2 @@
-# gg-ui
+# gg-vue-ui
 Front end frame
