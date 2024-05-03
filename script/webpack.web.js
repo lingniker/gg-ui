@@ -26,7 +26,8 @@ var config = {
       // vue: `vue/dist/${vueBundle}`,
       // 'vue': path.resolve(__dirname, '../node_modules/vue/dist/vue.esm-browser.js'),
       '@lixi': path.join(__dirname , '../src'),
-      '@site': path.join(__dirname , '../site')
+      '@site': path.join(__dirname , '../site'),
+      'g-ui/src': path.join(__dirname , '../src')
     },
   },
   module: {

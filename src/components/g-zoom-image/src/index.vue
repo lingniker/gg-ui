@@ -43,10 +43,10 @@
       </van-swipe>
       <div class="swipe-btns" v-show="!zoomState">
         <div class="swipe-btn btn-left" @click="changeIndex('left')">
-          <img src="src/asset/images/right_normal.png" alt="" />
+          <img src="https://img1.baidu.com/it/u=4155649894,2847882086&fm=253&fmt=auto&app=120&f=JPEG?w=1280&h=800" alt="" />
         </div>
         <div class="swipe-btn btn-right" @click="changeIndex('right')">
-          <img src="src/asset/images/right_normal.png" alt="" />
+          <img src="https://img31.51tietu.net/pic/2016-121019/20161210192729rggn3qwyjjr18757.jpg" alt="" />
         </div>
       </div>
       <div class="zoom-mobile" v-if="zoomMobile">

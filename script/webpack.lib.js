@@ -29,6 +29,7 @@ var config = {
     extensions: ['.ts', '.tsx', '.js', '.vue', '.json'],
     alias: {
       '@lixi': path.join(__dirname , '../src'),
+      'g-ui/src': path.join(__dirname , '../src')
     },
   },
   module: {
