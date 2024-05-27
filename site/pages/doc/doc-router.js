@@ -18,7 +18,7 @@ components.forEach(item => { // ./pages/${item}.vue
 var douRouter = [
   {
     path: '/doc/introduce',
-    name: 'introduce',
+    name: 'docIntroduce',
     title: 'introduce 介绍',
     component: Introduce
   },
